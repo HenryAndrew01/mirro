@@ -1,0 +1,1 @@
+FROM ghcr.io/jaredallard/docker-parsec:latest
